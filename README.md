@@ -25,10 +25,11 @@ A stunning, responsive invoice generator built with React and Material-UI. Creat
 ## 📸 Screenshots
 
 
-(Screenshot.png)
+## Screenshot 1
+![App Screenshot 1](Screenshot.png)
 
-
-(Screenshot2.png)
+## Screenshot 2
+![App Screenshot 2](Screenshot2.png)
 
 ## 🛠️ Tech Stack
 
