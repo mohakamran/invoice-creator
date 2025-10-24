@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/invoice-creator/static/js/main.a30941af.js",
+    "static/js/977.37a99c4e.chunk.js": "/invoice-creator/static/js/977.37a99c4e.chunk.js",
+    "static/js/455.27800662.chunk.js": "/invoice-creator/static/js/455.27800662.chunk.js",
+    "index.html": "/invoice-creator/index.html",
+    "main.a30941af.js.map": "/invoice-creator/static/js/main.a30941af.js.map",
+    "977.37a99c4e.chunk.js.map": "/invoice-creator/static/js/977.37a99c4e.chunk.js.map",
+    "455.27800662.chunk.js.map": "/invoice-creator/static/js/455.27800662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a30941af.js"
+  ]
+}
