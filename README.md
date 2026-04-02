@@ -9,7 +9,7 @@ A stunning, responsive invoice generator built with React and Material-UI. Creat
 
 ## 🚀 Live Demo
 
-👉 **[View Live Application](https://mohakamran.github.io/invoice-creator/)**
+👉 **[View Live Application](https://invoice-creator-view.vercel.app/)**
 
 ## ✨ Features
 
